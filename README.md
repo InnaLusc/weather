@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-open: https://funny-dango-a43ec9.netlify.app
+open: https://dapper-kleicha-b2a7cc.netlify.app
 
 ## Available Scripts
 
