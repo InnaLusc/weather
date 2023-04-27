@@ -34,6 +34,9 @@ function App() {
           <div className="location">
             <p>{data.name}</p>
           </div>
+  <div className="icon">
+          {data.weather ? <img src={`https://openweathermap.org/img/wn/${data.weather[0]['icon']}@2x.png`}  alt=" " /> : null}
+          </div>
           <div className="temp">
             {data.main ? <h1>{data.main.temp.toFixed()}°C</h1> : null}
           </div>
