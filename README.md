@@ -4,7 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 open: https://dapper-kleicha-b2a7cc.netlify.app
-<img width="1433" alt="image" src="https://user-images.githubusercontent.com/116881906/234265314-366de334-7683-4db7-88fd-b6e13eda48ec.png">
+<img width="458" alt="Знімок екрана 2023-04-27 о 14 52 47" src="https://user-images.githubusercontent.com/116881906/234869080-c4f5f825-d5bd-48e1-a3e4-4ddd2c5c8fcb.png">
+
 
 open: https://dapper-kleicha-b2a7cc.netlify.app
 
