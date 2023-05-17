@@ -1,9 +1,10 @@
+open: https://main--animated-kataifi-255c25.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-open: animated-kataifi-255c25.netlify.app
 <img width="458" alt="Знімок екрана 2023-04-27 о 14 52 47" src="https://user-images.githubusercontent.com/116881906/234869080-c4f5f825-d5bd-48e1-a3e4-4ddd2c5c8fcb.png">
 
 
